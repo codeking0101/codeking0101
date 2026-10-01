@@ -1,4 +1,4 @@
-# Hi there, "Timer Dev" 👋
+# Hi there, I am "Timer Dev" 👋
 
 ### AI Engineer · Mobile Developer · Full-Stack Engineer
 
