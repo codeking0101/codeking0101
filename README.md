@@ -52,20 +52,4 @@ I'm a fast learner, a passionate developer, and a big believer that great softwa
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- 📧 Email: your.email@example.com
-- 🌍 Portfolio: [your-site.com](https://your-site.com)
-
----
-
 ⭐ *Open to interesting projects and collaborations. Let's build something great together!*
